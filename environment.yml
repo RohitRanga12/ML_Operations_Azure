@@ -1,0 +1,9 @@
+name: mlops_udacity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip:
+      - azureml-core
+      - azureml-sdk
+prefix: /Users/Rohit/miniforge3/envs/mlops_udacity
