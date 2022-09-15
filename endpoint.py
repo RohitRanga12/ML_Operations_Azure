@@ -3,9 +3,10 @@ import json
 
 # URL for the web service, should be similar to:
 # 'http://8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io/score'
-scoring_uri = 'http://2c27e20d-9fd3-4c3d-ac35-73284c9c9429.southcentralus.azurecontainer.io/score'
+scoring_uri = 'http://2dc14c49-c962-4922-9a17-a2a339a8306c.southcentralus.azurecontainer.io/score'
+
 # If the service is authenticated, set the key or token
-key = 'khvyBiid1FdDxdV7Nfqj2UT0pWMZRjCx'
+key = 'bmyeEf7YqpWHkJF3aclpGdP0072hH2dl'
 
 # Two sets of data to score, so we get two results back
 data = {"data":
@@ -63,6 +64,7 @@ with open("data.json", "w") as _f:
 
 # Set the content type
 headers = {'Content-Type': 'application/json'}
+
 # If authentication is enabled, set the authorization header
 headers['Authorization'] = f'Bearer {key}'
 
