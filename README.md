@@ -86,7 +86,8 @@
 <br>
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+<a href="https://youtu.be/yN4VSDNOmDc">Click here for Screencast</a>
+<br>
 
 ## Standout Suggestions
 - Performed the Model Endpoint's benchmarking using Apache Benchmark (though it was optional)
