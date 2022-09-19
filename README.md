@@ -3,7 +3,7 @@
 
 # Project Title: Operationalizing Machine Learning
 
-Project Overview: 
+## Project Overview: 
 - Dataset used: Bank Marketing dataset. 
 - I use Azure to configure a cloud-based ML production model, deploy it, and consume it. 
 - I create, publish, and consume a pipeline. 
@@ -14,11 +14,10 @@ Project Overview:
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ## Key Steps
-*TODO*: include all the screenshots
-Step 1: Authentication
+<b>Step 1: Authentication</b>
 - I skipped this step since I used Udacity Lab and thus could not create a Service Principal
 
-Step 2: Auto ML Experiment
+<b>Step 2: Auto ML Experiment</b>
 - Upload data (csv file) to default datastore in Azure ML studio, and register a dataset
 - Create a compute instance to be used by the jupyter notebook later 
 - Create a compute cluster to be used by the AutoML experiment with min nodes as 1, and max nodes as 5
