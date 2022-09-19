@@ -92,5 +92,6 @@
 ## Standout Suggestions
 - Performed the Model Endpoint's benchmarking using Apache Benchmark (though it was optional)
 - Created an environment.yml file with all the necessary packages required for the project to run. 
-            - This is good practice as it makes it easier to run the project again on another device. 
-            - When creating a conda environment, you can use the yaml file to install all the packages.
+
+            => This is good practice as it makes it easier to run the project again on another device. 
+            => When creating a conda environment, you can use the yaml file to install all the packages.
