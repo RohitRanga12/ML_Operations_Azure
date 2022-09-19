@@ -1,10 +1,10 @@
 # Project Title: Operationalizing Machine Learning
 
 ## Project Overview: 
-- Dataset used: Bank Marketing dataset. 
-- I use Azure to configure a cloud-based ML production model, deploy it, and consume it. 
-- I create, publish, and consume a pipeline. 
-- I demonstrate all my work by creating a README file and a screencast video.
+- In this project, we use the Bank Marketing dataset. 
+- The goal of this project is to use Azure to configure a cloud-based ML production model, deploy it, and consume it. 
+- We create, publish, and consume a pipeline that uses the AutoML step.
+- Finally, I demonstrate my work by creating a README file and a screencast video.
 
 
 ## Architectural Diagram
