@@ -80,6 +80,10 @@
 <hr>
 <br>
 
+## How to improve the project in future
+- Implement a pipeline with custom training and feature engineering components instead of AutoML
+- Add into the pipeline, tests for the data and classifer model 
+<br>
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
