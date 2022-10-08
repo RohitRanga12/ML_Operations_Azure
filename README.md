@@ -81,8 +81,9 @@
 <br>
 
 ## How to improve the project in future
-- Implement a pipeline with custom training and feature engineering components instead of AutoML
-- Add into the pipeline, tests for the data and classifer model 
+- The Banking dataset could get more prepared for better results (e.g. feature engineering, if imbalanced classes balancing them, gathering more data...)
+- The training time and performance of the underlying compute cluster of the auto ml function could be increased to get better results from AutoML
+- Deep learning could be used (if GPU is activated on the cluster) to achieve possibly even better results
 <br>
 
 ## Screen Recording
